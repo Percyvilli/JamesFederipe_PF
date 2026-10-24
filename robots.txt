@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://percyvilli.github.io/JAMESFEDERIPE/sitemap.xml
+Sitemap: https://percyvilli.github.io/James-Federipe-Portfolio/sitemap.xml
+

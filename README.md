@@ -30,7 +30,7 @@ This folder is initialized as a local Git repository and the website files are s
    ```
 
 3. In GitHub, open the repository's **Settings → Pages**, select **Deploy from a branch**, choose `main` and `/(root)`, and save.
-4. Visit the Pages URL shown in Settings after deployment. If the new URL differs from `https://percyvilli.github.io/JAMESFEDERIPE/`, update the canonical link in `index.html` and the URLs in `robots.txt` and `sitemap.xml` before pushing.
+4. Visit the Pages URL shown in Settings after deployment. The canonical link and sitemap are set for the repository name `James-Federipe-Portfolio`.
 
 ### If updating the existing portfolio repository
 
@@ -45,4 +45,5 @@ The original hardware video is kept in this folder for local preview, but `.giti
 ## Site contents
 
 The root contains only the files used by the portfolio, its referenced images and documents, the five short video samples, and this guide. The MediSync research preview uses four selected pages and one blurred teaser inside a scrollable popup; the full manuscript is not included.
+
 
