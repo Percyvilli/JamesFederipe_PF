@@ -1,0 +1,15 @@
+# Windows/macOS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Local development output
+node_modules/
+dist/
+*.log
+.env
+.env.*
+!.env.example
+
+# Local-only Smart Parking demo (753,990,657 bytes; GitHub Pages cannot serve Git LFS)
+/assets/videos/EDP_SmartParking_Demonstration.mp4
